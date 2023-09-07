@@ -23,3 +23,5 @@ Project made for the specialization on Machine Learning and Deep Learning.
         }'
   ```
 7 - You should see the result.
+<img width="1136" alt="Screen Shot 2023-09-07 at 13 47 44" src="https://github.com/renatomateusx/Car_Purchase_Prediction_Amount/assets/4579323/44fb00e5-da3c-4435-b619-743ad76802d2">
+
