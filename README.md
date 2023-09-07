@@ -1,4 +1,4 @@
-# Car_Purchase_Prediction_Amount
+# Car Purchase Prediction Amount
 Project made for the specialization on Machine Learning and Deep Learning.
 
 # Follow the instructions
