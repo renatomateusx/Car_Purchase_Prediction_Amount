@@ -16,7 +16,7 @@ class ScoreItem(BaseModel):
     NetWorth: float
 
 
-file_model = h5py.File('./keras_cifar10_trained_model.h5', mode='r')
+file_model = h5py.File('./keras_car_prediction_trained_model.h5', mode='r')
 model = keras.models.load_model(file_model)
 
 
